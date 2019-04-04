@@ -32,6 +32,13 @@ echo ${var_temp}
 - 截取字符串：
 `echo ${var_temp:1:4}`#获取2到4之间的字符
 
-
+- 定义数组变量：
+   ```markdown
+   #只支持一维数组
+   temp_arr=(value1 value2 value3)
+   temp_arr[3]=value4
+   #获取数组长度
+   echo ${#temp_arr[@]}
+   ```
    
  
