@@ -10,4 +10,5 @@
   * [expr 表达式计算](shell-jiao-ben/expr-biao-da-shi.md)
   * [awk 表达式计算](shell-jiao-ben/awk-biao-da-shi-ji-suan.md)
   * [其他运算符](shell-jiao-ben/qi-ta-yun-suan-fu.md)
+  * [流程控制](shell-jiao-ben/liu-cheng-kong-zhi.md)
 
